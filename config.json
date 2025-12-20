@@ -7,7 +7,5 @@
     "homeUrl":"http://wilhelmwang-cloud.github.io",
     "faviconUrl":"https://avatars.githubusercontent.com/u/246721444?v=4",
     "email":"wy15206840096@outlook.com",
-    "startSite":"2024",
-
-    "style": "body { background: url('https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_1280.jpg') no-repeat center center fixed; background-size: cover; opacity: 1; } .markdown-body, #header { background-color: rgba(255,255,255,0.85) !important; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); } .SideNav { background-color: rgba(255,255,255,0.85) !important; border-radius: 10px; }"
+    "startSite":"2024"
 }
